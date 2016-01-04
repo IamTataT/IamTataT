@@ -1,5 +1,0 @@
-c:\Users\Kittitat\documents\visual studio 2013\Projects\IamTataT\Model\bin\Debug\Model.dll
-c:\Users\Kittitat\documents\visual studio 2013\Projects\IamTataT\Model\bin\Debug\Model.pdb
-c:\Users\Kittitat\documents\visual studio 2013\Projects\IamTataT\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
-c:\Users\Kittitat\documents\visual studio 2013\Projects\IamTataT\Model\obj\Debug\Model.dll
-c:\Users\Kittitat\documents\visual studio 2013\Projects\IamTataT\Model\obj\Debug\Model.pdb
