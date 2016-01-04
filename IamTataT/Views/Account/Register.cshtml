@@ -24,8 +24,8 @@
                 @Html.PasswordFor(m => m.Password)
             </li>
             <li>
-                @Html.LabelFor(m => m.ConfirmPassword)
-                @Html.PasswordFor(m => m.ConfirmPassword)
+                <label for="ConfirmPassword" class="">tConfirm password</label>
+                <input data-val="true" data-val-equalto="The password and confirmation password do not match." data-val-equalto-other="*.Password" id="ConfirmPassword" name="ConfirmPassword" type="password">
             </li>
         </ol>
         <input type="submit" value="Register" />
